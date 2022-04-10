@@ -1,4 +1,8 @@
 A SIMPLE ALGORITHM FOR QUANTUM TELEPORTATION    
+
+Getting started
+To start using ProjectQ, simply run
+python -m pip install --user projectq
     
     
     '''
