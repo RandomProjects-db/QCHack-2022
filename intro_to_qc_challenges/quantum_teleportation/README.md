@@ -1,10 +1,11 @@
 A SIMPLE ALGORITHM FOR QUANTUM TELEPORTATION    
 
-Additional requirements to run the project: from CLI run
+Additional requirements to run the project: 
+from CLI run
 
 python -m pip install --user projectq
 
-For  AWS Braket Backend requirement:
+For AWS Braket Backend requirement:
 
 python -m pip install --user projectq[braket]
     
