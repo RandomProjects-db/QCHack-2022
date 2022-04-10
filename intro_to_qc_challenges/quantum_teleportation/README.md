@@ -1,3 +1,6 @@
+A SIMPLE ALGORITHM FOR QUANTUM TELEPORTATION    
+    
+    
     '''
     CNOT gate to flip the second Qubit conditonally
     on the first qubit being in the state |1⟩
