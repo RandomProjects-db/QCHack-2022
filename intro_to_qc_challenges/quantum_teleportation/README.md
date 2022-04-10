@@ -1,12 +1,10 @@
 A SIMPLE ALGORITHM FOR QUANTUM TELEPORTATION    
 
-Getting started:
-To start using ProjectQ, simply run
+Additional requirements to run the project: from CLI run
+
 python -m pip install --user projectq
 
-Install AWS Braket Backend requirement:
-
-AWS Braket Backend requires the use of the official AWS SDK for Python, To install ProjectQ inluding this requirement you can include it in the installation instruction as:
+For  AWS Braket Backend requirement:
 
 python -m pip install --user projectq[braket]
     
